@@ -31,7 +31,7 @@ export const ThemeOptions = {
    * Set an overriding preferred IPFS provider here
    * Include a trailing slash
    */
-  preferredIPFSGateway: 'https://ipfs.io/ipfs/',
+  preferredIPFSGateway: 'https://feltzine.mypinata.cloud/',
 
   /**
    * Flag if zora username resolution should be automatically used
